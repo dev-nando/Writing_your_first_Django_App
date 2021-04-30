@@ -2,4 +2,6 @@ venv/
 *.py[co]
 *.sw[po]
 *~
-/secrets.json
+/mysite/secrets.json
+/mysite/db.sqlite3
+__pycache__/
