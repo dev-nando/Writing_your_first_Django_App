@@ -1,0 +1,5 @@
+venv/
+*.py[co]
+*.sw[po]
+*~
+/secrets.json
